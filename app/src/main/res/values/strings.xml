@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EyeDentify</string>
+    <string name="title_activity_identify">Identify</string>
+    <string name="title_activity_find_image">FindImage</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+</resources>
